@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    tools:context="com.example.englishdictionary.Dictionary" >
+
+   
+     <item
+        android:id="@+id/omi2"
+        android:title="History"
+        android:icon="@android:drawable/arrow_down_float"/>
+      <item
+        android:id="@+id/omi3"
+        android:title="Favourites"
+        android:icon="@android:drawable/arrow_down_float"/>
+      
+        <item
+        android:id="@+id/omi1"
+        android:title="Settings"
+        
+        android:icon="@android:drawable/checkbox_off_background"/>
+</menu>

@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.englishdictionary.EDictionary" >
+
+    
+    <item
+        android:id="@+id/f"
+        android:showAsAction="always"
+        android:icon="@android:drawable/btn_star"
+        android:title="@string/action_settings"/>
+
+</menu>

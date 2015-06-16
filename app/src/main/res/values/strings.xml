@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EnglishDictionary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edictionary">Dictionary</string>
+    <string name="title_activity_favorites">Favorites</string>
+    <string name="title_activity_history">History</string>
+    <string name="title_activity_view_his_fav">ViewHisFav</string>
+    <string name="title_activity_setting">Setting</string>
+    <string-array name="favou">
+        <item>Always Save Favorites</item>
+        <item>Never Save Favorites</item>
+    </string-array>
+    <string-array name="histo">
+        <item>Always Save History</item>
+        <item>Never Save History</item>
+    </string-array>
+
+</resources>

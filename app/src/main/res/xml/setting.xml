@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	<ListPreference 
+	    android:key="mh"
+	    android:title="HISTORY"
+        android:summary="TO MANAGE HISTORY"
+        android:entries="@array/histo"
+        android:entryValues="@array/histo"/>
+	
+	
+	<ListPreference 
+	   android:key="mf"
+        android:title="FAVORITES"
+        android:summary="TO MANAGE FAVORITES"
+        android:entries="@array/favou"
+        android:entryValues="@array/favou"/>
+	
+
+</PreferenceScreen>
